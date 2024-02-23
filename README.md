@@ -2,9 +2,7 @@
 
 Locally run LLMs like `llama2`, `mistral`, `llava`, etc. on your computer and then get outputs inside Google Sheets.
 
-Watch the below video for more information:
-
-[![Local LLMs to Google Sheets](http://img.youtube.com/vi/q6b9MIktSAc/0.jpg)](http://www.youtube.com/watch?v=q6b9MIktSAc)
+[Watch this YouTube video](https://www.youtube.com/watch?v=q6b9MIktSAc) for more information on this.
 
 ## Requirements
 
