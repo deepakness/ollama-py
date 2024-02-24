@@ -143,3 +143,5 @@ Replace the `<TUNNEL>` placeholder with the copied `ngrok` URL.
 Save the code and run the script, you may need to authenticate for the very first time.
 
 And just like that, you should start seeing your Google Sheets getting outputs from local LLMs running on your computer.
+
+However, if you need more information, [this blog post](https://untalkedseo.com/locally-running-llms-in-google-sheets/) talks about the subject in even more detail.
